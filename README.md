@@ -9,4 +9,4 @@ __Gmail - [dan10022002@gmail.com](dan10022002@gmail.com)__
 
 1. *cmake --version*
 
-   ![cmake --version]()
+   ![cmake --version](https://github.com/Dan10022002/tp_lab00/blob/main/cmake.png)
